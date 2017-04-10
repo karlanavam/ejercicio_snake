@@ -1,0 +1,36 @@
+    body{
+      background-color: #FFD440;
+    }
+
+    h1{
+      text-align: center;
+      font-family: Tahoma;
+      color: #0B841D;
+    }
+
+    #contenedor {
+      background: #5DFF75;
+      border: 0px;
+      width: 250px;
+      height: 250px;
+      margin: 0 auto;
+    }
+    #cuadrito{
+      border: 0px;
+      background: #0B841D;
+      width: 50px;
+      height: 50px;
+      position: absolute;
+    }
+
+    button{
+      margin-left: 550px;
+      background: #0B841D;
+      color: #5DFF75;
+      font-size: 1em;
+      font-family: Tahoma;
+      width: 250px;
+      border: none;
+      text-align: center;
+      padding: 10px;
+    }
